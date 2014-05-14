@@ -1,0 +1,29 @@
+{
+  "name": "timeit-stream",
+  "version": "0.0.1",
+  "description": "helps you time your streams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Neppord/timeit-stream.git"
+  },
+  "keywords": [
+    "time",
+    "timeit",
+    "timeit-stream"
+  ],
+  "author": "Samuel Ytterbrink",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Neppord/timeit-stream/issues"
+  },
+  "homepage": "https://github.com/Neppord/timeit-stream",
+  "dependencies": {
+    "q": "~1.0.1",
+    "microtime": "~0.5.1",
+    "through2": "~0.4.1"
+  }
+}
